@@ -3,6 +3,7 @@
 <h1>Portafolio IV Período🖥️ </h1>
 <img width="100%" src="https://png.pngtree.com/thumb_back/fw800/back_our/20190625/ourmid/pngtree-technology-sense-blue-business-technology-banner-image_261160.jpg">
 <h3>Año 2021</h3>
+
 <h3>Información general 📚</h3>
 <table>
     <tr>

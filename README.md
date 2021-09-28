@@ -65,6 +65,10 @@
       <td>09</td>
       <th>dashboard</th>
     </tr>
+<tr>
+      <td>10</td>
+      <th>Objetivos Futuros</th>
+    </tr>
 	</table>
 <h3> Objetivos 📋 </h3>
 <ol>

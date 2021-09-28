@@ -59,10 +59,18 @@
     </tr>
 <tr>
       <td>08</td>
-      <th>Dashboard</th>
+      <th>Profile</th>
     </tr>
 <tr>
       <td>09</td>
-      <th>Profile</th>
+      <th>dashboard</th>
     </tr>
 	</table>
+<h3> Objetivos 📋 </h3>
+<ol>
+	<li> sdsd
+		<li>  dse </li>
+	</li>
+	<li> </li>
+	<li> </li>
+</ol>

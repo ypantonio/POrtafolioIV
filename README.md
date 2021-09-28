@@ -75,6 +75,33 @@
 	<li> Saber 📕 <br>
 		Analizar y aplicar nuevos métodos <br>para hacerlo mejor.
 	</li>
-	<li> Saber hacer 📗 </li>
-	<li> Saber ser y estar 📘 </li>
+	<li> Saber hacer 📗 <br> 
+		Manejar mucho mejor los códigos y trabajar <br>de manera más clara.
+	</li>
+	<li> Saber ser y estar 📘 <br>
+		Practicar muchas más veces para <br> realizarlo mejor.
+	</li>
 </ol>
+<h3>Documentación 🗃️</h3>
+<table>
+<tr>
+      <td>Splash</td>
+      <th>https://ypantonio.github.io/Wireframe_base/</th>
+    </tr>
+<tr>
+      <td>Login</td>
+      <th>https://ypantonio.github.io/Login/</th>
+    </tr>
+<tr>
+      <td>Login V2</td>
+      <th> https://ypantonio.github.io/LoginV2/</th>
+    </tr>
+<tr>
+      <td>Profile</td>
+      <th>https://ypantonio.github.io/Profile/</th>
+    </tr>
+<tr>
+      <td>Dashboard</td>
+      <th>https://ypantonio.github.io/dashboard/</th>
+    </tr>
+	</table>

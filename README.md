@@ -105,3 +105,15 @@
       <th>https://ypantonio.github.io/dashboard/</th>
     </tr>
 	</table>
+<h3> Objetivos Futuros 📝 </h3>
+<ol>
+	<li> Organización📌 <br>
+		Organizar mmis tiempospara hacer los <br> trabajos con tiempo y despacio.
+	</li>
+	<li> Investigación📌 <br> 
+		Consultar nuevas formas en cualquier área <br> para realizarlo de la mejor manera.
+	</li>
+	<li> Propósito📌 <br>
+		Trabajar con más orden y mejorar <br> mis técnicas.
+	</li>
+</ol>

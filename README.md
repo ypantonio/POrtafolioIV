@@ -68,9 +68,7 @@
 	</table>
 <h3> Objetivos 📋 </h3>
 <ol>
-	<li> sdsd
-		<li>  dse </li>
-	</li>
-	<li> </li>
-	<li> </li>
+	<li> Saber 📕</li>
+	<li> Saber hacer 📗 </li>
+	<li> Saber ser y estar 📘 </li>
 </ol>

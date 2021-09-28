@@ -72,7 +72,9 @@
 	</table>
 <h3> Objetivos 📋 </h3>
 <ol>
-	<li> Saber 📕</li>
+	<li> Saber 📕 
+		Analizar y aplicar nuevos métodos <br>para hacerlo mejor.
+	</li>
 	<li> Saber hacer 📗 </li>
 	<li> Saber ser y estar 📘 </li>
 </ol>
